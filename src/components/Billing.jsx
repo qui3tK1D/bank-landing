@@ -9,7 +9,7 @@ const Billing = () => {
     >
       <div className="flex-1 order-2 md:order-1 flex items-center relative">
         <img src={bill} alt="billing" className="z-10" />
-        {/* <div className="absolute left-0 w-1/2 h-1/2 pink__gradient" /> */}
+        <div className="absolute left-0 w-1/2 h-1/2 pink__gradient" />
       </div>
 
       <div className="flex-1 order-1 md:order-2 mb-4 lg:mb-0">
